@@ -62,4 +62,4 @@ Happy Coding! 🚀
 --- 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aksharpanchani&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
-![snake gif](https://github.com/Aksharpanchani/Aksharpanchani/blob/output/github-contribution-grid-snake.gif)
+![Snake](https://github.com/Aksharpanchani/Aksharpanchani/blob/output/github-contribution-grid-snake-dark.svg)
